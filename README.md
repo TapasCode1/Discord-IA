@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="../discord-IA/assets/Logo-Banner.png" alt="Discord IA Banner" />
+  <img src="assets/Logo-Banner.png" alt="Discord IA Banner" />
+</p>
+<p align="center">
+  <img src="assets/Logo-Discord-IA.png" alt="Discord IA Logo" width="120"/>
 </p>
 
 # 🤖 Discord-IA Bot
