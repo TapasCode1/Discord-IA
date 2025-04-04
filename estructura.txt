@@ -1,0 +1,4 @@
+discord-IA/
+├─ .env
+├─ botDiscord.js
+├─ package.json
