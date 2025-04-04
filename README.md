@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../discord-IA/assets/Logo-Banner.png" alt="Discord IA Banner" />
+</p>
+
 # 🤖 Discord-IA Bot
 
 Este proyecto es un bot que conecta la API de Gemini (Google Generative AI) con un canal de Discord mediante webhooks. Puedes escribirle una pregunta en consola y el bot responderá directamente en tu servidor de Discord.
