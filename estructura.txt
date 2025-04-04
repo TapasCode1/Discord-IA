@@ -1,4 +1,9 @@
 discord-IA/
-├─ .env
-├─ botDiscord.js
-├─ package.json
+├── assets/
+│   ├── logo.png
+│   └── banner.png
+├── botDiscord.js
+├── .env (no lo subas)
+├── .gitignore
+├── README.md
+└── ...
